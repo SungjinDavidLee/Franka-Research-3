@@ -209,3 +209,9 @@ ros2 action send_goal -f \
   franka_msgs/action/Move \
   "{width: 0.00, speed: 0.05}"
 ```
+
+
+https://github.com/user-attachments/assets/a43f54b2-4a10-4caf-b590-83ca2c636663
+
+
+
