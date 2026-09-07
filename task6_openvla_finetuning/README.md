@@ -31,7 +31,7 @@ Pick up the black bowl next to the cookie box and place it on the plate.
 | [00_baseline.md](00_baseline.md) | — | 파인튜닝 없이 평가 | 실패 — 원인 분석 |
 | [finetuning_v1.md](finetuning_v1.md) | 20 ep / 10,821 frame | 첫 파인튜닝 | 실패 — 액션 전부 0 |
 | [finetuning_v2.md](finetuning_v2.md) | 20 ep / 9,003 frame | 액션을 실측 TCP delta로 재계산 | 부분 성공 — 접근·하강 학습, grasp 실패 |
-| [finetuning_v3.md](finetuning_v3.md) | 신규 20 ep / 8,700 frame | grasp 대기 구간 제거 | 개선 — grasp 예측 등장, 일반화 부족 |
+| [finetuning_v3.md](finetuning_v3.md) | 신규 20 ep / 8,957 frame | grasp 대기 구간 제거 | 개선 — grasp 예측 등장, 일반화 부족 |
 
 ---
 
