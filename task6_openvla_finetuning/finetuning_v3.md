@@ -90,7 +90,7 @@ for ep_dir in sorted(glob.glob(path)):
 
 액션 계산은 v2와 동일하다 (실측 TCP delta 역산 + no-op 필터링).
 
-결과: 20 examples, 695 MiB
+결과: 20 examples, 8,957 frame, 695 MiB
 
 ---
 
